@@ -1,2 +1,2 @@
-# cpp-homework-1
+# cpp-homework
 C++ submissions
